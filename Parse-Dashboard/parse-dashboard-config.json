@@ -1,18 +1,10 @@
-
-var config = {
-  "allowInsecureHTTP": true,
-  "apps": [
-    {
-      "serverURL": "http://finder-hospital-app.herokuapp.com/parse",
-      "appId": "VfxaK2Tk5qApR5nvAulR",
-      "masterKey": "myMasterKey",
-      "appName": "finder-hospital-app"
-    }
-  ],"users": [
-    {
-      "user":"user",
-      "pass":"pass"
-    }
-  ]
-};
-var dashboard = new ParseDashboard(config, config.allowInsecureHTTP);
+{
+   "apps": [{
+    "serverURL": "http://finder-hospital-app.herokuapp.com/parse",
+     "appId": "VfxaK2Tk5qApR5nvAulR",
+     "masterKey": "myMasterKey",
+     "appName": "finder-hospital-app",
+     "iconName": ""
+   }],
+   "iconsFolder": "icons"
+ }

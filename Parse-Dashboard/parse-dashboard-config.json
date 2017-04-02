@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "http://finder-hospital-app.herokuapp.com/parse",
+    "appId": "VfxaK2Tk5qApR5nvAulR",
+    "masterKey": "myMasterKey",
+    "appName": "finder-hospital-app ",
     "iconName": ""
   }],
   "iconsFolder": "icons"
